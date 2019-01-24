@@ -1,0 +1,3 @@
+alias em="emacs -nw"
+alias copy="xclip -selection clipboard"
+alias ptf="xclip -selection clipboard -t image/png -o >"
